@@ -9,3 +9,4 @@ pypdf
 reportlab
 youtube_transcript_api
 requests
+torchvision
