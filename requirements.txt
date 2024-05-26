@@ -10,3 +10,4 @@ reportlab
 youtube_transcript_api
 requests
 torchvision
+lxml
