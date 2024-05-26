@@ -2,8 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import arxiv, os
 
-os.environ['OPENAI_API_KEY'] = st.secrets.OPENAI_API_KEY
-
 def replace_to_html(link_string):
   values = ["abs", "pdf"]
   for i in values:
